@@ -1,0 +1,1 @@
+# urdu_quranic_dictionary.
